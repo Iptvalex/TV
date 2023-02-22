@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml" "https://50ia.short.gy/TV-EPG"
+#EXTM3U url-tvg="https://kodi.botallen.com/tv/epg.xml" 
+                "https://50ia.short.gy/TV-EPG"
 
 #EXTINF:-1,group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png", Star Plus HD
 http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
@@ -16,8 +17,7 @@ http://180.178.188.152:8000/play/a01q
 http://212.224.84.217:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1676856668~exp=1676943068~acl=/*~hmac=7a5b277470046c1252ec206a7ebed6cd0ec2a9529ad44632a8950cea2459fce6
+
 #EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
@@ -40,7 +40,8 @@ https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-tvhd_0
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-209
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="&Prive HD" tvakamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeeclassic
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
+http://pakin2.worldtvip.co:9090/ind2_colors_hd/index.m3u8
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
@@ -142,9 +143,5 @@ http://51.159.98.86:8880/live/1234567890/1234567890/206309.ts?token=GhMNBEZcR1gR
 http://51.159.212.144:8880/live/1234567890/1234567890/301498.ts?token=GhMNBEZcR1gRVQ0NAgcGUgEBAwJYVl0EVgRSUFYPUAcAUFZcVAYBWwVEGBoXEhZRBVtrXgVGAgNSVwMNCxQUFhJUFzpcUEdYEVUFDlZSVRZIFEBeDAEaClNQAAIHDw5QUgNJR0VdAUAJRAAAUlBSFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EXQ1XDhYbQwdXRQwSRU0RAhQqLxNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVQNcAhZK
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
 https://livesportsclub.tech:443/getm3u8?id=1145&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd3/MTV_HD_Plus_HLS/6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
-http://146.190.166.221:80/madstream/colors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
-http://pakin2.worldtvip.co:9090/ind2_colors_hd/index.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-channel_2105335046
