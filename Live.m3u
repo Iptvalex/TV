@@ -157,11 +157,13 @@ http://212.224.84.217:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?
 https://livesportsclub.tech/getm3u8/1079/master.m3u8
 #EXTINF:-1,group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/640px-STAR_Movies_logo.svg.png",Star Movies HD
 http://212.224.84.217:2200/R-EX/FHD_STAR_MOVIES_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-#EXTINF:-1,group-title="Movies" tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text-thumbnail.png",Movies Now HD
-http://51.159.98.86:8880/live/1234567890/1234567890/206309.ts?token=GhMNBEZcR1gRVVELVgVSBFMDVwFXAV0HBABUAgUPAVBSAFRVB1EAUVBEGBoXEhZRBVtrXgVGAgJSUAQEChQUFhJUFzpcUEdYEVUFDlZSVRZIFEBeDAEaClNQAAIHDw5TVgRJR0VdAUAJRAYBVF9UFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVwVWDxYbQwdXRQwSRU0RAhQqLxNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZUXQRSABZK
+
 #EXTINF:-1,group-title="Kids" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",Tom & Jerry Show
 https://4k3u.short.gy/live/tom&jerry_24/7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
 https://72n5.short.gy/MTV_BTECH1.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Entertainment",Comedy Central
+https://nitro-x-methods.shop/NITRO-X-JIOTV/master.m3u8?id=1157
