@@ -61,7 +61,7 @@ https://dai.google.com/linear/hls/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 https://dai.google.com/linear/hls/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies",Sony MAX
 https://dai.google.com/linear/hls/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Entertainment",Sony WAH
+#EXTINF:-1 tvg-id="sony1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
 https://dai.google.com/linear/hls/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX2
 https://dai.google.com/linear/hls/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
