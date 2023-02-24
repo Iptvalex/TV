@@ -151,7 +151,7 @@ http://pakin.worldtvip.co/ind_hangamatv/index.m3u8
 http://starshare.org:8080/live/gxc733/sxk877/206.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" tvg-chno="" channel-id="" group-title="Kids",Gubbare Kids
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
-#EXTINF:-1,group-title="Knowledge" tvg-logo="https://cdn.imgbin.com/16/4/7/imgbin-history-television-channel-logo-television-show-story-Z5qC7Yp54LwZfTYGYRaMLs9fY.jpg",History 18
+#EXTINF:-1,group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/2/20/HistoryTV18_logo.png",History 18
 http://212.224.84.217:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
 #EXTINF:-1,group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Cartoon_Network_HD_Europe_2017-present.png",Cartoon Network
 https://livesportsclub.tech/getm3u8/1079/master.m3u8
