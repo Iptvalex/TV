@@ -113,7 +113,7 @@ http://starshare.live:8080/live/775577/775577/711.m3u8
 http://watchindia.net:8880/live/14100/70701/1067.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://www.pngfind.com/pngs/m/613-6130623_star-sports-1-channel-number-star-sports-live.png" tvg-chno="2" channel-id="2" tvg-country="IN" group-title="Sports",Star Sports 1 Hindi HD
 https://m3uplaylist.000webhostapp.com/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD ( BJ TECH)" tvg-logo="" group-title="Sports",SPORTS 18 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPORTS 18 HD ( BJ TECH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="Sports",SPORTS 18 HD
 https://72n5.short.gy/SPORTS_18HD_11.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="Music",MTV Beats HD
