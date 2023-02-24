@@ -145,8 +145,10 @@ http://starshare.org:8080/live/gxc733/sxk877/205.m3u8
 http://starshare.org:8080/live/gxc733/sxk877/207.m3u8
 #EXTINF:-1,group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2014-2017.png",Disney Channel
 http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+#EXTINF:-1,group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2014-2017.png",Disney Channel
+https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:-1,group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png",Hungama
-http://pakin.worldtvip.co/ind_hangamatv/index.m3u8
+https://72n5.short.gy/LINK3_BJ.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3kIqZMIH_ldLDiaP6NbLv2vJ6Y7ZrYe2uw&usqp=CAU" group-title="Kids",Nick Jr.
 http://starshare.org:8080/live/gxc733/sxk877/206.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" tvg-chno="" channel-id="" group-title="Kids",Gubbare Kids
