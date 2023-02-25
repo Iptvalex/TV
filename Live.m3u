@@ -16,30 +16,23 @@ http://180.178.188.152:8000/play/a01q
 #EXTINF:-1,group-title="Entertainment", tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/star--bharat-hd.png", STAR BHARAT HD
 http://212.224.84.217:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeetvhd
+https://72n5.short.gy/ZEE_TV_BJTECH.m3u8
 
 #EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeecinemahd
+https://72n5.short.gy/ZEE_CINEMA-BJTECH.m3u8
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-tvpictureshd
+https://72n5.short.gy/&PICTURE_HD-BJTECH.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
 http://kuchini.site:8080/adastream/ghdiJqVJWvqxIMd5/19741
-#EXTINF:0 tvg-id="0-9-zeeanmolcinema" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeeanmolcinema
-#EXTINF:0 tvg-id="0-9-zeeclassic" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeeclassic
-#EXTINF:0 tvg-id="0-9-zeecinema" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeecinema
-#EXTINF:0 tvg-id="0-9-pictures" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-pictures
-#EXTINF:0 tvg-id="0-9-zeeaction" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeeaction
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="Movies",ZEE CAFE HD
+https://72n5.short.gy/Zee_cafe_bjtechknowledge.m3u8
+
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-tvhd_0
+http://180.178.188.152:8000/play/a01u
 #EXTINF:0 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
 https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-209
-#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="&Prive HD" tvakamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-zeeclassic
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 http://pakin2.worldtvip.co:9090/ind2_colors_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
@@ -165,7 +158,7 @@ https://4k3u.short.gy/live/tom&jerry_24/7.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
 https://72n5.short.gy/MTV_BTECH1.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-channel_2105335046
+https://72n5.short.gy/&flix.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Entertainment",Comedy Central
 https://nitro-x-methods.shop/NITRO-X-JIOTV/master.m3u8?id=1157
