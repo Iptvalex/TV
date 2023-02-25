@@ -111,6 +111,8 @@ https://72n5.short.gy/SPORTS_18HD_11.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="Music",MTV Beats HD
 http://50.7.69.66/mtv_beats/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="" group-title="Music",MTV Beats HD
+https://72n5.short.gy/MTV+_BJTECH1.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV NEWS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/ndtv-logo-new-delhi-television-limited-logo.png" group-title="News",NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
