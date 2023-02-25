@@ -100,7 +100,7 @@ https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
 https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://wallpapersafari.com/cdn-cgi/mirage/2d5e0f62e82b6490846d4bf92d68e628929dac4dac2547cc2c5afceba20c9393/1280/https://cdn.wallpapersafari.com/21/83/jc50ig.jpg",USA WWE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.wallpapersafari.com/21/83/jc50ig.jpg",USA WWE
 http://starshare.live:8080/live/775577/775577/711.m3u8
 #EXTINF:-1 tvg-id="willow.cricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/Willow_HD.png" group-title="Sports",Willow HD 1 
 http://watchindia.net:8880/live/14100/70701/1067.m3u8 
@@ -160,7 +160,7 @@ https://72n5.short.gy/MTV_BTECH1.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://72n5.short.gy/&flix.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://uplohttps://upload.wikimedia.org/wikipedia/en/a/a1/PR_Jungle_Fury_logo.pngad.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Entertainment",Comedy Central
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/PR_Jungle_Fury_logo.pngad.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="Entertainment",Comedy Central
 https://nitro-x-methods.shop/NITRO-X-JIOTV/master.m3u8?id=1157
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/PR_Jungle_Fury_logo.png" group-title="Kids",Power Rangers
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677346874/ei/2vP5Y87CKZO58QO5qLzwAw/ip/146.196.37.192/id/uh0Yj95BtCQ.1/source/yt_live_broadcast/requiressl/yes/tx/24436456/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/in/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPOZYH3VcI3aKjp6rH-MVuWMiZrYMFKjLSPrR-kaoO4UAiEAmFFQmQjiItZYtxXU74SEwK3_bfjKbOcCzRvIT_cD1KU%3D/file/index.m3u8
