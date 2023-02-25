@@ -38,7 +38,7 @@ http://pakin2.worldtvip.co:9090/ind2_colors_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 https://72n5.short.gy/COLORS_HD1.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Entertainment",COLORS INFINITY
-https://72n5.short.gy/Colours_infinity1.m3u8
+http://180.178.188.152:8000/play/a00o
 
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
