@@ -155,14 +155,8 @@ https://livesportsclub.tech/getm3u8/1079/master.m3u8
 #EXTINF:-1,group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/640px-STAR_Movies_logo.svg.png",Star Movies HD
 http://212.224.84.217:2200/R-EX/FHD_STAR_MOVIES_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 
-#EXTINF:-1,group-title="Kids" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png",Tom & Jerry Show
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677345352/ei/6O35Y474KKKhmgeHlbrQDQ/ip/146.196.37.192/id/ClsWWQ1lZr0.1/source/yt_live_broadcast/requiressl/yes/tx/24436456/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/in/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANuI7sf3QG8otyfM8ZiYrtEAcjqfF9D_vh_guQGuPhibAiBYusWl1nlHtTrbD1aSv665z1a3AggrV0A8q-E22606Ag%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
 https://72n5.short.gy/MTV_BTECH1.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://72n5.short.gy/&flix.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1280px-Comedy_Central_2018.svg.png" group-title="Entertainment",Comedy Central
-http://smiletv.live:1300/getm3u8/1157/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/PR_Jungle_Fury_logo.png" group-title="Kids",Power Rangers
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677346874/ei/2vP5Y87CKZO58QO5qLzwAw/ip/146.196.37.192/id/uh0Yj95BtCQ.1/source/yt_live_broadcast/requiressl/yes/tx/24436456/txs/24436455%2C24436456%2C24436457%2C24436458/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/in/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPOZYH3VcI3aKjp6rH-MVuWMiZrYMFKjLSPrR-kaoO4UAiEAmFFQmQjiItZYtxXU74SEwK3_bfjKbOcCzRvIT_cD1KU%3D/file/index.m3u8
