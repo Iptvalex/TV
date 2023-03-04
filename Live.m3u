@@ -3,8 +3,6 @@
 
 #EXTINF:-1,group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png", Star Plus HD
 http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
-#EXTINF:-1,group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png", Star Plus HD
-http://pakin2.worldtvip.co:9090/ind2_star_plus_hd/index.m3u8
 #EXTINF:-1,group-title="Movies" tvg-logo="https://image.pngaaa.com/792/2721792-middle.png", UTV ACTION
 http://180.178.188.152:8000/play/a01p
 #EXTINF:-1 tvg-chno="455333" group-title="Movies" tvg-logo="https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",Star Gold HD
@@ -16,25 +14,23 @@ http://180.178.188.152:8000/play/a01q
 #EXTINF:-1,group-title="Entertainment", tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/star--bharat-hd.png", STAR BHARAT HD
 http://212.224.84.217:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
-https://72n5.short.gy/ZEE_TV_BJTECH.m3u8
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeetvhd
 
 #EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
-https://72n5.short.gy/ZEE_CINEMA-BJTECH.m3u8
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
-https://72n5.short.gy/&PICTURE_HD-BJTECH.m3u8
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
 http://kuchini.site:8080/adastream/ghdiJqVJWvqxIMd5/19741
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="Movies",ZEE CAFE HD
-https://72n5.short.gy/Zee_cafe_bjtechknowledge.m3u8
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecafehd
 
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
-http://208.86.19.13:81/7033.stream/index.m3u8
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvhd_0
 #EXTINF:0 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
-https://zee.yashrajmod.online/yuwegruyg/api.php?c=0-9-209
+https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-209
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1677333388~exp=1677419788~acl=/*~hmac=638c7622a4addbd43d951746d8e932b0cb0e2fc9453af40974f958a199f044a3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 http://180.178.188.152:8000/play/a00o
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Entertainment",COLORS INFINITY
