@@ -12,7 +12,7 @@ http://212.224.84.217:2200/R-EX/FHD_STAR_GOLD_SEL_-in/tracks-v1a1/mono.m3u8?toke
 #EXTINF:-1,group-title="Movies" tvg-logo="https://i.ibb.co/WswhPjx/73770383.png", Star Gold 2
 http://180.178.188.152:8000/play/a01q
 #EXTINF:-1,group-title="Entertainment", tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/star--bharat-hd.png", STAR BHARAT HD
-http://212.224.84.217:2200/R-EX/FHD_STAR_BHARAT_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeetvhd
 
@@ -137,8 +137,7 @@ http://starshare.org:8080/live/gxc733/sxk877/1918.m3u8
 http://starshare.org:8080/live/gxc733/sxk877/205.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZKd7O5gDVBoAi4835L8XtiOIesZy8XalzjA&usqp=CAU" group-title="Kids",Sonic
 http://starshare.org:8080/live/gxc733/sxk877/207.m3u8
-#EXTINF:-1,group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2014-2017.png",Disney Channel
-http://212.224.84.217:2200/R-EX/KIDS_Disney_TV-in/index.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
 #EXTINF:-1,group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2014-2017.png",Disney Channel
 https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:-1,group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png",Hungama
