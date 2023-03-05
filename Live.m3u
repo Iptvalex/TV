@@ -3,8 +3,7 @@
 
 #EXTINF:-1,group-title="Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png", Star Plus HD
 http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
-#EXTINF:-1,group-title="Movies" tvg-logo="https://image.pngaaa.com/792/2721792-middle.png", UTV ACTION
-http://180.178.188.152:8000/play/a01p
+
 #EXTINF:-1 tvg-chno="455333" group-title="Movies" tvg-logo="https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",Star Gold HD
 http://50.7.69.66/star_gold/index.m3u8
 #EXTINF:-1,group-title="Movies" tvg-logo="https://1.bp.blogspot.com/-QCgeZNgR42Y/WDVCYl9s2iI/AAAAAAAARck/ulhA53-z9hI0np8JxXZnIWQHI06XjPAXwCLcB/w1200-h630-p-k-no-nu/stargoldselectHD.jpg", Star Gold Select HD
@@ -33,7 +32,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-209
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 http://180.178.188.152:8000/play/a00o
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1678099219~acl=%2f*~data=hdntl~hmac=c0dc3666598ff8389ce196752b0bd7a3118dbacaeec8bbdf13048d53e76ed907/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Entertainment",COLORS INFINITY
