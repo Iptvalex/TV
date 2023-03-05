@@ -159,3 +159,6 @@ http://212.224.84.217:2200/R-EX/FHD_STAR_MOVIES_-in/tracks-v1a1/mono.m3u8?token=
 https://jiolivestreaming.akamaized.net/bpk-tv/MTV_voot_MOB/output03/hdntl=exp=1678099723~acl=%2f*~data=hdntl~hmac=f77138e99bcd86db9c5a9b4eaf894d36e5458d8c1515a9a93f49fa1eae4e5936/MTV_voot_MOB-audio_98835_eng=98800-video=2906400.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-channel_2105335046
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/603px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
+https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_HD_voot_MOB/output03/hdntl=exp=1678100406~acl=%2f*~data=hdntl~hmac=126dfb143ff332007df87bfd37bd19f6c3e1e86c96ead3648637151e21f6fd90/Comedy_Central_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
