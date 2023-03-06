@@ -120,7 +120,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1,group-title="Sports" tvg-logo="https://www.pngfind.com/pngs/m/613-6130623_star-sports-1-channel-number-star-sports-live.png",Star Sports HD
-http://pakin2.worldtvip.co:9090/ind2_star_sports_hindi_1_hd/index.m3u8
+https://livesportsclub.me/starxlive/index.m3u8/?id=51218&token=highrisk
 #EXTINF:-1,group-title="Sports" tvg-logo="https://www.pngfind.com/pngs/m/613-6130623_star-sports-1-channel-number-star-sports-live.png",Star Sports Hindi HD
 https://72n5.short.gy/LINK3_BJ.m3u8
 
