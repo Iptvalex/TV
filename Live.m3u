@@ -35,7 +35,6 @@ https://72n5.short.gy/COLORS_HD.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Entertainment",COLORS INFINITY
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/hdntl=exp=1678099536~acl=%2f*~data=hdntl~hmac=ecc1fef24a55d94aaf7aa3a2c4c7b9e50fdf71eb774a04015e57fa500d079b75/Colors_Infinity_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
-
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
