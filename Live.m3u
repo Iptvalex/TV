@@ -7,9 +7,8 @@ http://opplex.tv:8080/live/1234567890/1234567890/66166.ts
 #EXTINF:-1 tvg-chno="455333" group-title="Movies" tvg-logo="https://www.vhv.rs/dpng/d/24-245112_star-gold-channel-logo-hd-png-download.png",Star Gold HD
 http://50.7.69.66/star_gold/index.m3u8
 #EXTINF:-1,group-title="Movies" tvg-logo="https://1.bp.blogspot.com/-QCgeZNgR42Y/WDVCYl9s2iI/AAAAAAAARck/ulhA53-z9hI0np8JxXZnIWQHI06XjPAXwCLcB/w1200-h630-p-k-no-nu/stargoldselectHD.jpg", Star Gold Select HD
-http://212.224.84.217:2200/R-EX/FHD_STAR_GOLD_SEL_-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
-#EXTINF:-1,group-title="Movies" tvg-logo="https://i.ibb.co/WswhPjx/73770383.png", Star Gold 2
-http://180.178.188.152:8000/play/a01q
+https://livesportsclub.me/starxlive/index.m3u8/?ts=http://212.224.84.233:2200/R-EX/HINDI_STAR_GOLD_SELECT_HD-in/tracks-v1a1/2023/03/06/18/04/04-10000.ts
+
 #EXTINF:-1,group-title="Entertainment", tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/star--bharat-hd.png", STAR BHARAT HD
 https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
