@@ -31,7 +31,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvhd_0
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-209
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
-http://180.178.188.152:8000/play/a00o
+https://72n5.short.gy/COLORS_HD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="" group-title="Entertainment",COLORS HD
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1678099219~acl=%2f*~data=hdntl~hmac=c0dc3666598ff8389ce196752b0bd7a3118dbacaeec8bbdf13048d53e76ed907/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
 
