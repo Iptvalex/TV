@@ -22,7 +22,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hdntl=exp=1678100032~acl=%2f*~data=hdntl~hmac=25f6c225d47d683c118b9ed3b498c233aa2e900464d13f4016a6a0542f8c269c/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="" group-title="Movies",ZEE CAFE HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Movies",ZEE CAFE HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecafehd
 
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
@@ -122,7 +122,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="India Today" tvg-logo="" group-title="News",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="" group-title="News",AAJ TAK HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1,group-title="Sports" tvg-logo="https://www.pngfind.com/pngs/m/613-6130623_star-sports-1-channel-number-star-sports-live.png",Star Sports HD
 http://pakin2.worldtvip.co:9090/ind2_star_sports_hindi_1_hd/index.m3u8
