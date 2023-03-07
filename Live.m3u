@@ -141,7 +141,7 @@ https://madplay.live/jioliv/master.m3u8/?id=544&ch=Nick_Junior.png&token=MR.NITR
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" tvg-chno="" channel-id="" group-title="Kids",Gubbare Kids
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1,group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/ta/2/20/HistoryTV18_logo.png",History 18
-http://212.224.84.217:2200/R-EX/HINDI_HISTORY_TV_18_HD-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+https://madplay.live/jioliv/master.m3u8/?id=578&ch=History_18_Hindi.png&token=MR.NITROX-127l
 #EXTINF:-1,group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Cartoon_Network_HD_Europe_2017-present.png",Cartoon Network
 https://madplay.live/jioliv/master.m3u8/?id=816&ch=Cartoon_Network_Hindi.png&token=MR.NITROX-127l
 #EXTINF:-1,group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/640px-STAR_Movies_logo.svg.png",Star Movies HD
