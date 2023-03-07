@@ -135,7 +135,7 @@ https://madplay.live/jioliv/master.m3u8/?id=815&ch=sonic_Hindi.png&token=MR.NITR
 #EXTINF:-1,group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo-2014-2017.png",Disney Channel
 https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:-1,group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png",Hungama
-http://146.190.166.221/madstream/hungama/index.m3u8
+http://146.190.166.221:80/madstream/hungama/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3kIqZMIH_ldLDiaP6NbLv2vJ6Y7ZrYe2uw&usqp=CAU" group-title="Kids",Nick Jr.
 https://madplay.live/jioliv/master.m3u8/?id=544&ch=Nick_Junior.png&token=MR.NITROX-127l
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/Gubbare-TV_channel.jpg" tvg-chno="" channel-id="" group-title="Kids",Gubbare Kids
