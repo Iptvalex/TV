@@ -18,8 +18,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/hdntl=exp=1678100032~acl=%2f*~data=hdntl~hmac=25f6c225d47d683c118b9ed3b498c233aa2e900464d13f4016a6a0542f8c269c/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
-
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?hdnts=st=1678164549~exp=1678250949~acl=/*~hmac=6d85c1d922caae00309ebe0e6ccb1906d98589ec562f1f203fa38650549c8f56
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Movies",ZEE CAFE HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecafehd
 
