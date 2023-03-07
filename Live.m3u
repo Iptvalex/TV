@@ -156,4 +156,4 @@ https://jiolivestreaming.akamaized.net/bpk-tv/MTV_voot_MOB/output03/hdntl=exp=16
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/603px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
-https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_HD_voot_MOB/output03/hdntl=exp=1678100406~acl=%2f*~data=hdntl~hmac=126dfb143ff332007df87bfd37bd19f6c3e1e86c96ead3648637151e21f6fd90/Comedy_Central_HD_voot_MOB-audio_98835_eng=98800-video=3110800.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/Comedy_Central_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678164333~exp=1678250733~acl=/*~hmac=61c7009c8e057512a6f9a07ad5b6822947cd388f1b4ddcac959df6c31a1786fa
