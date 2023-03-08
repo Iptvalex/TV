@@ -102,7 +102,7 @@ https://72n5.short.gy/SPORTS_18HD_11.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
 http://50.7.69.66/mtv_beats/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678164979~exp=1678251379~acl=/*~hmac=3bbe393046ed2f91e965aec92402b06c101b5d0f6f101530bd8a3483ce6c906f
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV NEWS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/ndtv-logo-new-delhi-television-limited-logo.png" group-title="News",NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS" tvg-logo="" group-title="News,ZEE NEWS
@@ -145,7 +145,7 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=47859&token=highrisk
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
-https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1678165150~exp=1678251550~acl=/*~hmac=64f8b4df243385b15aa026e07e36a760059e5c7567baeae24e278bbf3667b0b7
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-channel_2105335046
 
