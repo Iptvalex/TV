@@ -18,7 +18,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecinemahd
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?hdnts=st=1678164549~exp=1678250949~acl=/*~hmac=6d85c1d922caae00309ebe0e6ccb1906d98589ec562f1f203fa38650549c8f56
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Movies",ZEE CAFE HD
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecafehd
 
@@ -30,7 +30,7 @@ https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-209
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/2560px-Colors_TV_logo.svg.png" group-title="Entertainment",COLORS HD
 https://jiolivestreaming.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS INFINITY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/5ca3012fcbc70colors-infinity-main.png" group-title="Entertainment",COLORS INFINITY
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/hdntl=exp=1678099536~acl=%2f*~data=hdntl~hmac=ecc1fef24a55d94aaf7aa3a2c4c7b9e50fdf71eb774a04015e57fa500d079b75/Colors_Infinity_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Infinity_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 #EXTINF:-1 tvg-id="sony" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Entertainment",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sony1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",SET HD
@@ -52,8 +52,7 @@ https://dai.google.com/linear/hls/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #EXTINF:-1 tvg-id="sony1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
 https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex Bollywood HD
-https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/hdntl=exp=1678100111~acl=%2f*~data=hdntl~hmac=c31a5da460e33efd96ac30023e9e054a20b81adce3b5e861b66494e92d1a9b9f/Colors_Cineplex_Bollywood_voot_MOB-audio_98835_eng=98800-video=2600000.m3u8
-
+https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
 
 #EXTINF:-1 tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" tvg-chno="1" group-title="Knowledge",Discovery
 https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
