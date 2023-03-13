@@ -11,7 +11,7 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=48108&token=highrisk
 #EXTINF:-1,group-title="Entertainment", tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/star--bharat-hd.png", STAR BHARAT HD
 https://72n5.short.gy/LINK4__BJ.m3u8
 #EXTINF:0 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145.png",Zee TV HD
-https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeetvhd
+https://streaming24x7.xyz/SIA/master.m3u8/?c=0-9-zeetvhd
 
 #EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
 https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8?hdnts=st=1678726801~exp=1678729801~acl=/out/v1/1d59d08fec89495584d2b7e4059492a4/index.m3u8*~hmac=52dcc808f94683a1f7b60f1422075728f11328757f520546d65718eee54de3e1
@@ -23,9 +23,9 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Colors_Cineplex_voot_MOB/output03/
 https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-zeecafehd
 
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
-https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-tvhd_0
+https://z5ak-live.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1678727449~exp=1678730449~acl=/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8*~hmac=198347cc1789ac6d247e1257384a23892dd2dc0739e3de7c160740dba614557c
 #EXTINF:0 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
-https://live-tv-m3u.000webhostapp.com/m3u8.php?c=0-9-209
+https://z5ams2.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1678727130~exp=1678730130~acl=/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8*~hmac=c0a4cf0a50136a89a5ab8708061c054242b7546b59a53b04b1d3667cacbe61d9
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/2560px-Colors_TV_logo.svg.png" group-title="Entertainment",COLORS HD
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
