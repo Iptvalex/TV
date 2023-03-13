@@ -100,9 +100,8 @@ https://m3uplaylist.000webhostapp.com/master.php?id=c4fc10f343784f045b9b40e8c342
 https://72n5.short.gy/SPORTS_18HD_11.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-http://50.7.69.66/mtv_beats/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Beats HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png" group-title="Music",MTV Beats HD
-https://jiolivestreaming.akamaized.net/bpk-tv/MTV_Beats_HD_voot_MOB/output03/index.m3u8?hdnts=st=1678286260~exp=1678372660~acl=/*~hmac=53111dd25a5ceb4178963e97032c677e12df71e65f7a4d10a982f4c5c53b5359
+https://livesportsclub.tech/vootlive/master.m3u8/urlgen.php?id=1304
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NDTV NEWS" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/ndtv-logo-new-delhi-television-limited-logo.png" group-title="News",NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE NEWS" tvg-logo="" group-title="News,ZEE NEWS
