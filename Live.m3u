@@ -20,8 +20,7 @@ https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATUzfchgt91wDK6F_v7tYXx21s2760PN0GQ&usqp=CAU" group-title="Movies",Cineplex HD
 https://livesportsclub.tech/vootlive/master.m3u8/urlgen.php?id=1309
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CAFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/ZeeCafeIndia.png" group-title="Entertainment",ZEE CAFE HD
-https://z5ak-live.zee5.com/out/v1/e64afda20edd4cd7adf5b252be4aa799/index.m3u8?hdnts=st=1678727523~exp=1678730523~acl=/out/v1/e64afda20edd4cd7adf5b252be4aa799/index.m3u8*~hmac=8dd3ae97fbd3bf48f0db31fb28788affa171140aa115378fd4fc1af45d81aa38
-
+https://streaming24x7.xyz/SIA/master.m3u8/?c=0-9-zeecafehd
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
 https://z5ak-live.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1678727449~exp=1678730449~acl=/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8*~hmac=198347cc1789ac6d247e1257384a23892dd2dc0739e3de7c160740dba614557c
 #EXTINF:0 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
