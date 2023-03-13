@@ -25,7 +25,7 @@ https://z5ak-live.zee5.com/out/v1/e64afda20edd4cd7adf5b252be4aa799/index.m3u8?hd
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
 https://z5ak-live.zee5.com/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8?hdnts=st=1678727449~exp=1678730449~acl=/out/v1/81b68c3858bf4481ad93679fd4253cf6/index.m3u8*~hmac=198347cc1789ac6d247e1257384a23892dd2dc0739e3de7c160740dba614557c
 #EXTINF:0 tvg-id="0-9-209" group-title="Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
-https://z5ams2.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1678727130~exp=1678730130~acl=/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8*~hmac=c0a4cf0a50136a89a5ab8708061c054242b7546b59a53b04b1d3667cacbe61d9
+https://streaming24x7.xyz/SIA/master.m3u8/?c=0-9-209
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/2560px-Colors_TV_logo.svg.png" group-title="Entertainment",COLORS HD
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
