@@ -143,7 +143,7 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=47859&token=highrisk
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
-https://livesportsclub.tech/vootlive/master.m3u8/urlgen.php?id=1300
+https://jiolivestreaming.akamaized.net/bpk-tv/MTV_HD_Plus_voot_MOB/output03/index.m3u8?hdnts=st=1678815776~exp=1678902176~acl=/*~hmac=844b0c8a4e335bcd496de3f496225d29d30f656df34320a83e03e83cc0858f74
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
 https://streaming24x7.xyz/SIA/master.m3u8?c=0-9-channel_2105335046
 
