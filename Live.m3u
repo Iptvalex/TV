@@ -145,7 +145,7 @@ https://livesportsclub.me/starxlive/index.m3u8/?id=47859&token=highrisk
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV HD" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-movie-png-logo-5.png" group-title="Music",MTV HD
 https://livesportsclub.tech/vootlive/master.m3u8/urlgen.php?id=1300
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png" group-title="Movies",&flix HD
-https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1678727727~exp=1678730727~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=ff015538e00bbf5f4568004f858dd2611d6ccc48b290ef13ce2ed192a27212d5
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8?hdnts=st=1678772319~exp=1678775319~acl=/out/v1/1fdd621077c04a568628705e08b6363e/index.m3u8*~hmac=cfa4b8c35831ff842830f7ae142841fed0c2ea1b0c24dc24c9e85a5ed3bf7bbc
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/603px-Comedy_Central_2011_Logo.svg.png" group-title="Entertainment",Comedy Central
 https://livesportsclub.tech/vootlive/master.m3u8/urlgen.php?id=1303
