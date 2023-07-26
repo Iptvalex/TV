@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://api.coderkd.repl.co/epg.xml.gz"
+
 #EXTINF:-1 tvg-id="52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment",Colors HD
 https://www.beastplayer.tk/LiveTv/DenTv/master.m3u8?id=4884 
 #EXTINF:-1 tvg-id="8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",STAR Plus HD
